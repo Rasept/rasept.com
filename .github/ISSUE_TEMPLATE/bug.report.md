@@ -3,8 +3,8 @@ name: '🐛 Баг-репорт'
 about: 'Опишите баг'
 title: 'Баг: '
 labels: 'bug'
-Severity: ''
-Priority: ''
+Severity: 'S:'
+Priority: 'P:'
 
 ---
 
